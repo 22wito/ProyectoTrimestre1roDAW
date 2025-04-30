@@ -5,7 +5,7 @@ public class main {
 		// TODO Auto-generated method stub
 
 		
-		System.out.println("Esto es una prueba para GitHub");
+		System.out.println("Esto es una prueba para GitHub 2");
 	}
 
 }
